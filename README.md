@@ -20,4 +20,4 @@ structure.
 
 
 ## Implementation Progress
-https://youtu.be/fKnDLWXsRtU
+[Video Link](https://youtu.be/fKnDLWXsRtU)
