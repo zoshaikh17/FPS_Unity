@@ -12,12 +12,15 @@ structure.
 
 ![all levels](https://user-images.githubusercontent.com/56169161/97818648-2a321080-1c69-11eb-891b-41c92f0f54c7.jpeg)
 
+### Level 1
 ![level 1](https://user-images.githubusercontent.com/56169161/97818652-2f8f5b00-1c69-11eb-9db1-41bc18928838.jpeg)
 
+### Level 2
 ![level 2](https://user-images.githubusercontent.com/56169161/97818659-38802c80-1c69-11eb-9af3-0b1975d835fe.jpeg)
 
+### Level 3
 ![level 3](https://user-images.githubusercontent.com/56169161/97818661-3c13b380-1c69-11eb-8313-956d0bd29fba.jpeg)
 
 
 ## Implementation Progress
-[Video Link](https://youtu.be/fKnDLWXsRtU)
+https://youtu.be/fKnDLWXsRtU
