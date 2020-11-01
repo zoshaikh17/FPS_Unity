@@ -14,3 +14,7 @@ structure.
 ![level 2](https://user-images.githubusercontent.com/56169161/97818659-38802c80-1c69-11eb-9af3-0b1975d835fe.jpeg)
 
 ![level 3](https://user-images.githubusercontent.com/56169161/97818661-3c13b380-1c69-11eb-8313-956d0bd29fba.jpeg)
+
+
+## Implementation Progress
+https://youtu.be/fKnDLWXsRtU
