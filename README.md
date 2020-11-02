@@ -2,7 +2,7 @@
 
 ## The Warrior Prince
 This game will be a multilevel game in which the player will be tested on their ability of fast decision making. The first level, player will have different weapons and will try 
-to defeat all the enemies within a terrain. After defeating the enemies, they shall enter the second level; in this level with defeating various species of enemy in a room. On
+to defeat all the enemies within a terrain. After defeating the enemies, they shall enter the second level; in this level they shall defeat various species of enemy in a room. On
 successfully completing this level, the player shall enter the final level. In this level they not only have to kill the enemies but would also need to kill their "Boss" in a 
 castle like structure.
 
