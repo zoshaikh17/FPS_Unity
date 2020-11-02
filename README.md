@@ -22,7 +22,7 @@ castle like structure.
 ![all levels](https://user-images.githubusercontent.com/56169161/97818648-2a321080-1c69-11eb-891b-41c92f0f54c7.jpeg)
 
 ## Implementation Progress
-https://youtu.be/fKnDLWXsRtU
+[Video Link](https://youtu.be/fKnDLWXsRtU)
 
 ### UI Interface
 ![implementation](https://user-images.githubusercontent.com/55362861/97819082-1c31bf00-1c6c-11eb-9ec1-1524c1a63e35.JPG)
