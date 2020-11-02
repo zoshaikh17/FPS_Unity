@@ -23,3 +23,6 @@ structure.
 
 ## Implementation Progress
 https://youtu.be/fKnDLWXsRtU
+
+### UI Interface
+![implementation](https://user-images.githubusercontent.com/55362861/97819082-1c31bf00-1c6c-11eb-9ec1-1524c1a63e35.JPG)
