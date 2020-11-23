@@ -46,7 +46,15 @@ enemy. The player is supposed to kill all the enemies along with the main boss.
 ![crab_monster](https://user-images.githubusercontent.com/55362861/99926515-a0291500-2d07-11eb-9715-25b2f7da8bc2.JPG)
 
 ![Mainboss](https://user-images.githubusercontent.com/55362861/99926516-a0291500-2d07-11eb-973e-09ac616371c3.JPG)
+
+When the Player losses the game the below page will be displayed on the screen.
+
 ![endpage](https://user-images.githubusercontent.com/55362861/99926778-6efd1480-2d08-11eb-8509-27ef12b11ca3.JPG)
+
+## Scripts
+### Player Scripts
+
+### Enemy Scripts
 
 
 ## Game Demo
