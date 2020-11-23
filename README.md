@@ -1,5 +1,7 @@
 # Project 2_Group 12
 
+![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
+
 ## The Warrior Prince
 This game will be a multilevel game in which the player will be tested on their ability of fast decision making. The first level, player will have different weapons and will try 
 to defeat all the enemies within a terrain. After defeating the enemies, they shall enter the second level; in this level they shall defeat various species of enemy in a room. In 
@@ -17,7 +19,6 @@ The main objective of this project was to make a VR game to help people make pro
 
 As we did not have any VR devices we decided to proceed with a First Person Shooter (FPS) game. But this game can be easily extended on a VR device.
 
-![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
 ![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
 
 ### Level 1
