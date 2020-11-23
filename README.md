@@ -19,8 +19,12 @@ The main objective of this project was to make a VR game to help people make pro
 
 As we did not have any VR devices we decided to proceed with a First Person Shooter (FPS) game. But this game can be easily extended on a VR device.
 
+### Instructions :
+
+The game has a 3 Different scenes integrated together. The First scene is a Main menu scene which has Play, Quit and More as options. When the player clicks More Options, they will be instructed on how they can play the game, as shown in below Screenshot.
 ![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
 
+The Play button will take them to the Main game, i.e. Level 1, the quit button will exit the Player out of the game completely.
 ### Level 1
 
 We decided to go with a terrain for our first level, we imported a pre built asset from Unity store (links for the assets are provided below). We did this to save time, we then 
