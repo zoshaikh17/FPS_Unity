@@ -17,26 +17,28 @@ The main objective of this project was to make a VR game to help people make pro
 
 As we did not have any VR devices we decided to proceed with a First Person Shooter (FPS) game. But this game can be easily extended on a VR device.
 
+![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
+![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
+
 ### Level 1
 
 We decided to go with a terrain for our first level, we imported a pre built asset from Unity store (links for the assets are provided below). We did this to save time, we then 
 made Prefabs for our Emenies and Player, spawned the enemies all over the scene. As we need to present this game within 3 minutes we decided to have a 90 seconds timer for level  1. If the Player survives the first 90 seconds of the game, they will proceed to level 2.
 
+![Level1_Scene](https://user-images.githubusercontent.com/55362861/99926441-59d3b600-2d07-11eb-998f-57469652910a.JPG)
+
 ### Level 2
 We decided to go with a temple like structure for our second level, We imported a pre built asset but unfortunately it did not have all the models and a proper scene so we had 
 to build the second level from scratch by using the models and assets in the Unity Assets stores. This level not only had two different types of enemy but also had a Main boss 
 enemy. The player is supposed to kill all the enemies along with the main boss. 
-
-
-![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
-![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
-![Level1_Revolver](https://user-images.githubusercontent.com/55362861/99926440-593b1f80-2d07-11eb-96fa-4fbbf16f9c15.JPG)
-![Level1_Scene](https://user-images.githubusercontent.com/55362861/99926441-59d3b600-2d07-11eb-998f-57469652910a.JPG)
-![Assault rifle](https://user-images.githubusercontent.com/55362861/99926486-85ef3700-2d07-11eb-9b17-39ec45e915a5.JPG)
-![Level2 enemy](https://user-images.githubusercontent.com/55362861/99926487-8687cd80-2d07-11eb-82f1-43d707b5d54a.JPG)
 ![Level2 scene](https://user-images.githubusercontent.com/55362861/99926488-8687cd80-2d07-11eb-8796-71907af8744a.JPG)
+
+![Assault rifle](https://user-images.githubusercontent.com/55362861/99926486-85ef3700-2d07-11eb-9b17-39ec45e915a5.JPG)
+![Level1_Revolver](https://user-images.githubusercontent.com/55362861/99926440-593b1f80-2d07-11eb-96fa-4fbbf16f9c15.JPG)
+![Level2 enemy](https://user-images.githubusercontent.com/55362861/99926487-8687cd80-2d07-11eb-82f1-43d707b5d54a.JPG)
 ![Level2 scene_1](https://user-images.githubusercontent.com/55362861/99926489-8687cd80-2d07-11eb-8b65-4af0d4ef37d1.JPG)
 ![crab_monster](https://user-images.githubusercontent.com/55362861/99926515-a0291500-2d07-11eb-9715-25b2f7da8bc2.JPG)
+
 ![Mainboss](https://user-images.githubusercontent.com/55362861/99926516-a0291500-2d07-11eb-973e-09ac616371c3.JPG)
 ![endpage](https://user-images.githubusercontent.com/55362861/99926778-6efd1480-2d08-11eb-8509-27ef12b11ca3.JPG)
 
