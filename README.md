@@ -20,7 +20,7 @@ As we did not have any VR devices we decided to proceed with a First Person Shoo
 ### Level 1
 
 We decided to go with a terrain for our first level, we imported a pre built asset from Unity store (links for the assets are provided below). We did this to save time, we then 
-made Prefabs for our Emenies and Player, spawned the enemies all over the scene. As we need to present this game within 3 minutes we decided to have a 1-minute timer for level  1. If the Player survives the first 60 seconds of the game, they will proceed to level 2.
+made Prefabs for our Emenies and Player, spawned the enemies all over the scene. As we need to present this game within 3 minutes we decided to have a 90 seconds timer for level  1. If the Player survives the first 90 seconds of the game, they will proceed to level 2.
 
 ### Level 2
 We decided to go with a temple like structure for our second level, We imported a pre built asset but unfortunately it did not have all the models and a proper scene so we had 
