@@ -5,6 +5,8 @@ This game will be a multilevel game in which the player will be tested on their 
 to defeat all the enemies within a terrain. After defeating the enemies, they shall enter the second level; in this level they shall defeat various species of enemy in a room. In 
 this level they not only have to kill the enemies but would also need to kill their "Boss" in a castle like structure.
 
+## Project Objective 
+The main objective of this project was to make a VR game to help people make prompt decisions. To work as a team and overcome the obstacles.
 ## Initial Sketch
 
 ![WhatsApp Image 2020-11-01 at 5 52 22 PM](https://user-images.githubusercontent.com/56169161/97818950-1edfe480-1c6b-11eb-945b-1480b0f9aba0.jpeg)
