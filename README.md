@@ -17,6 +17,17 @@ The main objective of this project was to make a VR game to help people make pro
 
 As we did not have any VR devices we decided to proceed with a First Person Shooter (FPS) game. But this game can be easily extended on a VR device.
 
+### Level 1
+
+We decided to go with a terrain for our first level, we imported a pre built asset from Unity store (links for the assets are provided below). We did this to save time, we then 
+made Prefabs for our Emenies and Player, spawned the enemies all over the scene. As we need to present this game within 3 minutes we decided to have a 1-minute timer for level 
+1. If the Player survives the first 60 seconds of the game, they will proceed to level 2.
+
+### Level 2
+We decided to go with a temple like structure for our second level, We imported a pre built asset but unfortunately it did not have all the models and a proper scene so we had 
+to build the second level from scratch by using the models and assets in the Unity Assets stores. This level not only had two different types of enemy but also had a Main boss 
+enemy. The player is supposed to kill all the enemies along with the main boss. 
+
 
 ![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
 ![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
@@ -46,6 +57,10 @@ As we did not have any VR devices we decided to proceed with a First Person Shoo
 We used this tutorial to learn how to implement the FPS movements and controls
 
 [Youtube link](https://www.youtube.com/watch?v=_QajrabyTJc)
+
+We went through the below tutorial for weapon control
+
+[Youtube link](https://www.youtube.com/watch?v=THnivyG0Mvo)
 
 ## Responsibility
 Durga Prasad : Implementing, designing and Testing Level 1 and Main menu. Integrating the level as a complete project.
