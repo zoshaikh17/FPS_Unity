@@ -24,6 +24,8 @@ The main objective of this project was to make a VR game to help people make pro
 ![Level2 scene_1](https://user-images.githubusercontent.com/55362861/99926489-8687cd80-2d07-11eb-8b65-4af0d4ef37d1.JPG)
 ![crab_monster](https://user-images.githubusercontent.com/55362861/99926515-a0291500-2d07-11eb-9715-25b2f7da8bc2.JPG)
 ![Mainboss](https://user-images.githubusercontent.com/55362861/99926516-a0291500-2d07-11eb-973e-09ac616371c3.JPG)
+![endpage](https://user-images.githubusercontent.com/55362861/99926778-6efd1480-2d08-11eb-8509-27ef12b11ca3.JPG)
+
 
 ## Game Demo
 [Video Link](https://youtu.be/fKnDLWXsRtU)
@@ -39,4 +41,5 @@ The main objective of this project was to make a VR game to help people make pro
 
 ## Responsibility
 Durga Prasad : Implementing, designing and Testing Level 1 and Main menu. Integrating the level as a complete project.
+
 Zoya Shaikh : Implementing, designing and Testing Level 2 and the end page. Integrating the level as a complete project.
