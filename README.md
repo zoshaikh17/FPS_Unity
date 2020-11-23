@@ -31,6 +31,7 @@ made Prefabs for our Emenies and Player, spawned the enemies all over the scene.
 We decided to go with a temple like structure for our second level, We imported a pre built asset but unfortunately it did not have all the models and a proper scene so we had 
 to build the second level from scratch by using the models and assets in the Unity Assets stores. This level not only had two different types of enemy but also had a Main boss 
 enemy. The player is supposed to kill all the enemies along with the main boss. 
+
 ![Level2 scene](https://user-images.githubusercontent.com/55362861/99926488-8687cd80-2d07-11eb-8796-71907af8744a.JPG)
 
 ![Assault rifle](https://user-images.githubusercontent.com/55362861/99926486-85ef3700-2d07-11eb-9b17-39ec45e915a5.JPG)
