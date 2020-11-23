@@ -53,8 +53,12 @@ When the Player losses the game the below page will be displayed on the screen.
 
 ## Scripts
 ### Player Scripts
+![weapon script](https://user-images.githubusercontent.com/56169161/99928774-306b5800-2d10-11eb-894b-40a2e8bc5731.JPG)
+![fire script](https://user-images.githubusercontent.com/56169161/99928773-306b5800-2d10-11eb-86df-ff8133e28902.JPG)
 
 ### Enemy Scripts
+![enemy movement script](https://user-images.githubusercontent.com/56169161/99928771-2fd2c180-2d10-11eb-9f6d-2629d6d4545c.JPG)
+![es](https://user-images.githubusercontent.com/56169161/99928772-2fd2c180-2d10-11eb-8726-6064748c6850.JPG)
 
 
 ## Game Demo
