@@ -15,3 +15,7 @@ this level they not only have to kill the enemies but would also need to kill th
 [Video Link](https://youtu.be/fKnDLWXsRtU)
 
 [Drive Link](https://drive.google.com/drive/folders/1kg0o7La-kHzNU8Nkm_ou7Gdnw0-QYMQX?usp=sharing)
+
+## Responsibility
+Durga Prasad : Implementing, designing and Testing Level 1 and Main menu. Integrating the level as a complete project.
+Zoya Shaikh : Implementing, designing and Testing Level 2 and the end page. Integrating the level as a complete project.
