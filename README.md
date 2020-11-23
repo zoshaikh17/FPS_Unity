@@ -16,6 +16,8 @@ The main objective of this project was to make a VR game to help people make pro
 ## Implementations :
 
 As we did not have any VR devices we decided to proceed with a First Person Shooter (FPS) game. But this game can be easily extended on a VR device.
+
+
 ![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
 ![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
 ![Level1_Revolver](https://user-images.githubusercontent.com/55362861/99926440-593b1f80-2d07-11eb-96fa-4fbbf16f9c15.JPG)
@@ -40,6 +42,10 @@ As we did not have any VR devices we decided to proceed with a First Person Shoo
 
 [Main Boss](https://assetstore.unity.com/packages/3d/characters/insectoid-crab-monster-lurker-of-the-shores-20-animations-107223)
 
+## Useful Links
+We used this tutorial to learn how to implement the FPS movements and controls
+
+[Youtube link](https://www.youtube.com/watch?v=_QajrabyTJc)
 
 ## Responsibility
 Durga Prasad : Implementing, designing and Testing Level 1 and Main menu. Integrating the level as a complete project.
