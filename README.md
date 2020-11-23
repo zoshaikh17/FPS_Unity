@@ -18,6 +18,8 @@ The main objective of this project was to make a VR game to help people make pro
 
 [Drive Link](https://drive.google.com/drive/folders/1kg0o7La-kHzNU8Nkm_ou7Gdnw0-QYMQX?usp=sharing)
 ## Assets
+[Level 1](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977)
+[Level 2](https://assetstore.unity.com/packages/3d/environments/ancient-jungle-temple-demo-123179)
 [Main Boss](https://assetstore.unity.com/packages/3d/characters/insectoid-crab-monster-lurker-of-the-shores-20-animations-107223)
 
 
