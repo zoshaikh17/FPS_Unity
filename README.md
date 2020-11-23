@@ -13,7 +13,9 @@ The main objective of this project was to make a VR game to help people make pro
 
 ![all levels](https://user-images.githubusercontent.com/56169161/97818648-2a321080-1c69-11eb-891b-41c92f0f54c7.jpeg)
 
-## Screenshots for different Scenes 
+## Implementations :
+
+As we did not have any VR devices we decided to proceed with a First Person Shooter (FPS) game. But this game can be easily extended on a VR device.
 ![Main](https://user-images.githubusercontent.com/55362861/99926443-59d3b600-2d07-11eb-8ca1-970d9480a630.JPG)
 ![Instruct](https://user-images.githubusercontent.com/55362861/99926439-593b1f80-2d07-11eb-8a23-e6ee814f4b1e.JPG)
 ![Level1_Revolver](https://user-images.githubusercontent.com/55362861/99926440-593b1f80-2d07-11eb-96fa-4fbbf16f9c15.JPG)
