@@ -17,6 +17,9 @@ The main objective of this project was to make a VR game to help people make pro
 [Video Link](https://youtu.be/fKnDLWXsRtU)
 
 [Drive Link](https://drive.google.com/drive/folders/1kg0o7La-kHzNU8Nkm_ou7Gdnw0-QYMQX?usp=sharing)
+## Assets
+[Main Boss](https://assetstore.unity.com/packages/3d/characters/insectoid-crab-monster-lurker-of-the-shores-20-animations-107223)
+
 
 ## Responsibility
 Durga Prasad : Implementing, designing and Testing Level 1 and Main menu. Integrating the level as a complete project.
