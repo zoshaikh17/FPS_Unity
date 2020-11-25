@@ -44,6 +44,7 @@ enemy. The player is supposed to kill all the enemies along with the main boss.
 ![Level2 enemy](https://user-images.githubusercontent.com/55362861/99926487-8687cd80-2d07-11eb-82f1-43d707b5d54a.JPG)
 ![Level2 scene_1](https://user-images.githubusercontent.com/55362861/99926489-8687cd80-2d07-11eb-8b65-4af0d4ef37d1.JPG)
 ![crab_monster](https://user-images.githubusercontent.com/55362861/99926515-a0291500-2d07-11eb-9715-25b2f7da8bc2.JPG)
+![zom](https://user-images.githubusercontent.com/55362861/100173242-b2ce5600-2e8f-11eb-84f5-07e8489c2f89.JPG)
 
 ![Mainboss](https://user-images.githubusercontent.com/55362861/99926516-a0291500-2d07-11eb-973e-09ac616371c3.JPG)
 
