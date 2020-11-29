@@ -72,9 +72,12 @@ The below script is the enemy movement script, which helps the Different enemies
 
 
 ## Game Demo
+[Play Game?](https://simmer.io/@zoeee/vr-group12)
+
 [Video Link](https://youtu.be/fKnDLWXsRtU)
 
 [Drive Link](https://drive.google.com/drive/folders/1kg0o7La-kHzNU8Nkm_ou7Gdnw0-QYMQX?usp=sharing)
+
 ## Assets
 [Level 1](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977)
 
